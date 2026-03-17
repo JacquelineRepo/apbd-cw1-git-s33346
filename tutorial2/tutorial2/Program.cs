@@ -1,4 +1,6 @@
-﻿public class Program
+﻿namespace tutorial2;
+
+public class Program
 {
     public static void Main()
     {
