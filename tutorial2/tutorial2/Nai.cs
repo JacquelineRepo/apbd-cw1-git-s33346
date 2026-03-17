@@ -10,4 +10,10 @@ public class Nai
         x = 0;
         y = 0;
     }
+
+    public void printNai()
+    {
+        Console.Write(this.x + "," + this.y);
+    }
+    
 }
