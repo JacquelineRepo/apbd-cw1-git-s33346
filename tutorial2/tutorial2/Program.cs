@@ -8,6 +8,8 @@ public class Program
         Console.Write("ITT JUST WORRKS IT JUST WORKS");
 
         Console.Write("More words for more commits");
+        int x = 0;
+
 
 
     }
