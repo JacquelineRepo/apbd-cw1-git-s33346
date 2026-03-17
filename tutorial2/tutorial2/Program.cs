@@ -7,7 +7,7 @@ public class Program
         Console.Write("Hello World!");
         Console.Write("ITT JUST WORRKS IT JUST WORKS");
 
-        Console.Write("More words for more commits");
+        Console.Write("Seasons greetings from feature-conflict!");
         int x = 0;
 
 
