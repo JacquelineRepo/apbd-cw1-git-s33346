@@ -15,5 +15,6 @@ public class Nai
     {
         Console.Write(this.x + "," + this.y);
     }
+    public void CalculateAverage(int[] values){}
     
 }
